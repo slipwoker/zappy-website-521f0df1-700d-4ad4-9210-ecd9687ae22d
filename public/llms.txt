@@ -1,0 +1,105 @@
+# gigi — Generative Engine Optimization Map
+
+> A children's clothing store focused on offering apparel for kids. The brand likely targets parents shopping for their children, with a warm and playful atmosphere fitting the children's fashion niche.
+
+---
+
+## Pages
+
+### בית
+https://gigi-521f0df1.zappy5.app
+גלי את עולם אופנת הילדים של gigi – בגדים מחמיאים, נעימים ושובבים שהופכים כל יום להרפתקה. זה הכול, gigi gorgeous. קני עכשיו והלבישי את הקטנים בחלום!
+
+### אודות
+https://gigi-521f0df1.zappy5.app/about
+בואי להכיר את gigi – מותג אופנת ילדים שנולד מאהבה לסטייל, נוחות וחיוכים קטנים. מההשראה של this is everything gigi gorgeous ועד המלתחה המושלמת. קראי עוד על החזון שלנו!
+
+### גלריה
+https://gigi-521f0df1.zappy5.app/gallery
+צללי לגלריית התמונות של gigi – השראה יומיומית לאופנת ילדים עם טאץ&#39; של kylie jenner this is everything gigi gorgeous. תיאום מושלם בין צבע, כיף ונוחות. היכנסי להתאהב!
+
+### צור קשר
+https://gigi-521f0df1.zappy5.app/contact
+יש לך שאלה על הפריט המושלם? צרי קשר עם gigi – אנחנו כאן להלביש את הילדים בחיוך. this is everything gigi gorgeous מחכה לך. שלחי הודעה ונחזור אלייך בקפיצה!
+
+### Products
+https://gigi-521f0df1.zappy5.app/products
+המוצרים שלנו - gigi
+
+### Cart
+https://gigi-521f0df1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://gigi-521f0df1.zappy5.app/checkout
+תשלום
+
+### Login
+https://gigi-521f0df1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://gigi-521f0df1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://gigi-521f0df1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://gigi-521f0df1.zappy5.app/product/:slug
+פרטי המוצר - gigi
+
+### Category
+https://gigi-521f0df1.zappy5.app/category/:slug
+מוצרים - gigi
+
+### תודה - gigi
+https://gigi-521f0df1.zappy5.app/thank-you
+gigi - תודה - gigi
+
+## Legal & Policy
+
+### Privacy Policy
+https://gigi-521f0df1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gigi-521f0df1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gigi-521f0df1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About gigi
+A children's clothing store focused on offering apparel for kids. The brand likely targets parents shopping for their children, with a warm and playful atmosphere fitting the children's fashion niche.
+
+## Target Audience
+- הורים לילדים
+- הורים לילדים צעירים
+- סבים וסבתות שקונים מתנות
+- הורים מודעים לסביבה
+
+## Industry
+Children's Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gigi-521f0df1.zappy5.app/sitemap.xml
+- Robots: https://gigi-521f0df1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gigi-521f0df1.zappy5.app/llms-full.txt
+- Products (JSON): https://gigi-521f0df1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://gigi-521f0df1.zappy5.app/product-feed.xml
