@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://gigi-521f0df1.zappy5.app
+https://example.com
 גלי את עולם אופנת הילדים של gigi – בגדים מחמיאים, נעימים ושובבים שהופכים כל יום להרפתקה. זה הכול, gigi gorgeous. קני עכשיו והלבישי את הקטנים בחלום!
 
 ### אודות
-https://gigi-521f0df1.zappy5.app/about
+https://example.com/about
 בואי להכיר את gigi – מותג אופנת ילדים שנולד מאהבה לסטייל, נוחות וחיוכים קטנים. מההשראה של this is everything gigi gorgeous ועד המלתחה המושלמת. קראי עוד על החזון שלנו!
 
 ### גלריה
-https://gigi-521f0df1.zappy5.app/gallery
+https://example.com/gallery
 צללי לגלריית התמונות של gigi – השראה יומיומית לאופנת ילדים עם טאץ&#39; של kylie jenner this is everything gigi gorgeous. תיאום מושלם בין צבע, כיף ונוחות. היכנסי להתאהב!
 
 ### צור קשר
-https://gigi-521f0df1.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על הפריט המושלם? צרי קשר עם gigi – אנחנו כאן להלביש את הילדים בחיוך. this is everything gigi gorgeous מחכה לך. שלחי הודעה ונחזור אלייך בקפיצה!
 
 ### Products
-https://gigi-521f0df1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - gigi
 
 ### Cart
-https://gigi-521f0df1.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://gigi-521f0df1.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://gigi-521f0df1.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://gigi-521f0df1.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://gigi-521f0df1.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://gigi-521f0df1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - gigi
 
 ### Category
-https://gigi-521f0df1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - gigi
 
 ### תודה - gigi
-https://gigi-521f0df1.zappy5.app/thank-you
+https://example.com/thank-you
 gigi - תודה - gigi
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://gigi-521f0df1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://gigi-521f0df1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://gigi-521f0df1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Children's Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://gigi-521f0df1.zappy5.app/sitemap.xml
-- Robots: https://gigi-521f0df1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://gigi-521f0df1.zappy5.app/llms-full.txt
-- Products (JSON): https://gigi-521f0df1.zappy5.app/products.json
-- Products (Google Merchant RSS): https://gigi-521f0df1.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
